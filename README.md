@@ -25,12 +25,5 @@ Um sistema simples para realizar operações de soma com dados inseridos pelo us
 * **IDE/Editor:** VS Code / IntelliJ / Eclipse (o que você estiver usando)
 * **Versionamento:** Git e GitHub
 
-## 🎯 Próximos Passos de Estudo
-
-- [ ] Jogo de Adivinhação de Números (Lógica com Loops)
-- [ ] Calculadora de IMC (Estruturas de Decisão Avançadas)
-- [ ] Introdução a POO (Classes, Atributos e Métodos)
-- [ ] Integração com Spring Boot (Backend Web)
-
 ---
 Dev em constante evolução! Se quiser acompanhar minha jornada, fique à vontade para explorar as pastas. 🚀
