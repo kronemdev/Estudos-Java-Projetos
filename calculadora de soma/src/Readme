@@ -1,0 +1,16 @@
+# ☕ Meu Primeiro Projeto Java - Calculadora de Soma
+
+Este é o meu primeiro projeto desenvolvido em Java! É uma aplicação simples de console que recebe dois números decimais digitados pelo usuário, realiza a soma entre eles e exibe o resultado final.
+
+## 🚀 Funcionalidades
+
+* Exibe mensagens interativas no console para guiar o usuário.
+* Lê dados de entrada do teclado usando a classe `Scanner`.
+* Suporta números inteiros e decimais (utilizando o tipo de dado `double`).
+* Calcula e exibe o resultado da soma instantaneamente.
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Linguagem:** Java
+* **Ferramenta de Entrada:** `java.util.Scanner`
+* **Versionamento:** Git e GitHub
